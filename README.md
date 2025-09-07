@@ -1,0 +1,2 @@
+# dinesmart-updates
+POS
